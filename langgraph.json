@@ -1,0 +1,8 @@
+{
+  "node_version": "22",
+  "graphs": {
+    "agent": "./app\\agent.ts:agent",
+    "agentCv": "./app\\cvAgent.ts:cvAgent"
+  },
+  "env": ".env"
+}
